@@ -1,0 +1,7 @@
+1. leia a lista de números
+2. inicializar a variável soma com 0
+3. para cada número da lista faça:
+4. adicione o número a variável soma
+5. faça o calculo da média dividindo a variável soma pelo tamanho da 
+   lista
+6. escreva o resultado da média
