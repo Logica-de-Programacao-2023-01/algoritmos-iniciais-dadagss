@@ -1,0 +1,8 @@
+Leia lista
+Para cada busca por item:
+ pergunte nome do item
+ leia lista em busca do nome do item
+ leia item e sua posição na lista
+escreva nome do item e posição
+fim
+
