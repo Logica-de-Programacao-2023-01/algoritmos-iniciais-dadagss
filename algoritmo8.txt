@@ -1,0 +1,6 @@
+Leia Area = A , Base = b , Altura = H
+faça:
+ A = b*H/2
+Resultado = A
+Escreva resultado
+fim.
