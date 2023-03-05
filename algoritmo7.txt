@@ -1,0 +1,9 @@
+Leia numero X
+ faça:
+  x/2 inumeras vezes até x = 1 para chegar a resultado
+ se resultado = 1
+  então numero não é primo
+ senão:
+  x apenas sera divisivel por si mesmo e por 1
+  x sera primo
+fim
