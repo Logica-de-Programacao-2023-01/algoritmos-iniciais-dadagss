@@ -1,0 +1,9 @@
+leia:
+ Mp = média Ponderada
+ N = valor de conjunto
+ P = peso correspondente a cada valor do conjunto
+faça:
+ Mp = [(N1 * P1) + (N2 * P2) + (N3 * P3) + ... (Nx x Px)] / (P1 + P2 + P3 + ... Px).
+Mp = resultado
+escreva resultado
+fim.
