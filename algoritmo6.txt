@@ -1,0 +1,5 @@
+leia x^y
+Para cada numero de y maior que 1:
+ faça a multiplicação de x por si mesmo = resultado
+escreva resultado
+fim
