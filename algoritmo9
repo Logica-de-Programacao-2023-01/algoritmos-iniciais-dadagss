@@ -1,0 +1,9 @@
+leia:
+ M = montante
+ J = juros
+ C = Capital aplicado
+faça:
+  J = M - c
+Resultado = J
+escreva resultado
+Fim.
